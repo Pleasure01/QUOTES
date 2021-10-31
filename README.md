@@ -1,2 +1,2 @@
 # QUOTES
-You can add your quotes.
+You can add quotes.
