@@ -1,2 +1,2 @@
 # QUOTES
-You can add quotes.
+You can add quotes of different Persons.
